@@ -52,3 +52,98 @@ footer {
     position:relative;
     bottom: 570px;
 }
+
+.design {
+    font-size: 20px;
+    margin-right: 40px;
+    margin-top: 20px;
+    position: relative;
+    bottom: 15px;
+    left: -50px;
+}
+
+.imagesabout {
+    border: 5px solid #1E3A5F;
+    padding: 5px;
+    row-gap: 2;
+    column-gap: 2;
+    text-align: center;
+    margin-left: 500px;
+    margin-right: 500px;
+    position: relative;
+    left: 460px;
+    bottom: 600px;
+}
+
+.pics {
+    width: 50%;
+    height: 50%;
+    margin-left: 50px;
+    margin-right: 50px;
+
+
+}
+
+.minigolfing {
+    width: 50%;
+    height: 50%;
+    border: 5px solid #1E3A5F;
+}
+
+.sleepypeanut {
+    width: 50%;
+    height: 50%;
+    border: 5px solid #1E3A5F;
+    position: relative;
+    left: 700px;
+    bottom: 600px;
+}
+
+.minicooper {
+    width: 50%;
+    height: 50%;
+    border: 5px solid #1E3A5F;
+    position: relative;
+    bottom: 500px;
+}
+
+.sunset {
+    width: 50%;
+    height: 50%;
+    border: 5px solid #1E3A5F;
+    position: relative;
+    left: 700px;
+    bottom: 1100px;
+}
+
+.minigolfingpic {
+    position: relative;
+    left: 420px;
+    bottom: 2100px;
+    margin: 0px;
+    padding: 0px;
+}
+
+.sleepypeanutpic {
+    position: relative;
+    left: 1120px;
+    bottom: 2100px;
+    margin: 0px;
+    padding: 0px;
+}
+
+.minicooperpic {
+    position: relative;
+    left: 420px;
+    bottom: 1500px;
+    margin : 0px;
+    padding: 0px;
+}
+
+.sunsetpic {
+    position: relative;
+    left: 1120px;
+    bottom: 1600px;
+    margin: 0px;
+    padding: 0px;
+}
