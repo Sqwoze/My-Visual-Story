@@ -45,6 +45,7 @@ img {
     position: relative;
     left: 460px;
     bottom: 600px;
+    border-radius: 20px;
 }
 
 footer {
@@ -73,6 +74,7 @@ footer {
     position: relative;
     left: 460px;
     bottom: 600px;
+    border-radius: 20px;
 }
 
 .pics {
@@ -134,7 +136,7 @@ footer {
 
 .minicooperpic {
     position: relative;
-    left: 420px;
+    left: 400px;
     bottom: 1500px;
     margin : 0px;
     padding: 0px;
