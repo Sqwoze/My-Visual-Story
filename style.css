@@ -46,6 +46,8 @@ img {
     left: 460px;
     bottom: 600px;
     border-radius: 20px;
+    font-style: oblique;
+    font-size: 20px;
 }
 
 footer {
@@ -75,6 +77,8 @@ footer {
     left: 460px;
     bottom: 600px;
     border-radius: 20px;
+    font-style: oblique;
+    font-size: 20px;
 }
 
 .pics {
@@ -148,4 +152,27 @@ footer {
     bottom: 1600px;
     margin: 0px;
     padding: 0px;
+}
+
+.designdescription {
+    border: 5px solid #1E3A5F;
+    padding: 5px;
+    row-gap: 2;
+    column-gap: 2;
+    text-align: center;
+    margin-left: 500px;
+    margin-right: 500px;
+    position: relative;
+    left: 460px;
+    bottom: 600px;
+    border-radius: 20px;
+    font-size: 20px;
+    font-style: oblique;
+}
+
+.websitedesign {
+    border: 2px solid #1E3A5F;
+    border-radius: 20px;
+    width: 100%;
+    length: 100%;
 }
