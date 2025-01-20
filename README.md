@@ -27,7 +27,7 @@ Contributions are welcome! To contribute:
 - Submit a pull request with your changes.
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/Sqwoze/My-Visual-Story?tab=MIT-1-ov-file) file for details.
 
 ## Contact
 For any questions or suggestions, feel free to reach out via the project's GitHub repository: [My Visual Story](https://github.com/Sqwoze/My-Visual-Story).
