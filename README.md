@@ -4,7 +4,7 @@ Welcome to **My Visual Story**, a project that aims to provide an immersive stor
 
 ## Table of Contents
 - [About the Project](#about-the-project)
-- [Screenshot of the site](#Screenshot-of-the-site)
+- [Screenshot of the site Design](#Screenshot-of-the-site-Design)
 - [Features](#features)
 - [Contributing](#contributing)
 - [License](#license)
@@ -13,7 +13,7 @@ Welcome to **My Visual Story**, a project that aims to provide an immersive stor
 ## About the Project
 This project is designed to help users create and share their stories using a visually appealing interface. It leverages modern web technologies to provide an engaging user experience.
 
-## Screenshot of the site
+## Screenshot of the site Design
 ![image alt](https://github.com/Sqwoze/My-Visual-Story/blob/7904f35caa9ceba2885a7d0963b9dbd9303f56c2/imgs/image.png)
 
 ## Features
