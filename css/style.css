@@ -182,7 +182,6 @@ footer {
     border: 2px solid #1E3A5F;
     border-radius: 20px;
     width: 100%;
-    length: 100%;
 }
 
 form {
@@ -223,3 +222,36 @@ form {
   form h2 {
     font-family: Arial, Helvetica, sans-serif;
   }
+
+  .author {
+    width: 350px;
+    height: 350px;
+    border-radius: 50%;
+    border: 5px solid #1E3A5F;
+    object-fit: cover;
+    margin-left: 100px;
+    position: relative;
+    bottom: 350px;
+  }
+
+  .authordescription {
+    border: 5px solid #1E3A5F;
+    padding: 5px;
+    row-gap: 2;
+    column-gap: 2;
+    text-align: center;
+    margin-left: 500px;
+    margin-right: 500px;
+    position: relative;
+    left: 400px;
+    bottom: 700px;
+    border-radius: 20px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+.Hello👋 {
+    position:relative;
+    left: 230px;
+    bottom: 350px;
+}
